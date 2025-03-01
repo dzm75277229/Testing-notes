@@ -32,3 +32,15 @@ https://github.com/dzm75277229/Testing-notes/blob/main/Video/%E8%A7%86%E9%A2%91.
   framespacing="0" 
   allowfullscreen="true">
 </iframe>
+# 项目演示视频
+
+## 自动播放的视频（静音）
+<video controls autoplay muted width="100%">
+  <source src="../../Video/视频.mp4" type="video/mp4">
+  您的浏览器不支持视频标签。
+</video>
+
+## 手动播放的视频（带声音）
+<video controls width="100%">
+  <source src="../../Video/视频.mp4" type="video/mp4">
+</video>
