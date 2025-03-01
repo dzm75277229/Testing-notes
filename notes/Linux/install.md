@@ -4,7 +4,7 @@
 [安装代码截图](../../Images/tree.jpg)
 
 ## 2. 相关链接
-[项目文档](../Day1_TestFundamentals/Test_Theory.md)
+- [项目文档](../Day1_TestFundamentals/Test_Theory.md)
 - <a href="https://youtu.be/abc123" target="_blank">观看完整演示视频</a>
 
 ## 3. 视频演示
