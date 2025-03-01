@@ -1,10 +1,10 @@
 # 项目演示
 
 ## 1. 项目截图
-![安装代码截图](./docs/images/ui.png)
+![安装代码截图](https://github.com/dzm75277229/Testing-notes/blob/main/Images/tree.jpg)
 
 ## 2. 相关链接
-- [项目文档](https://github.com/yourname/repo/docs)
+- [项目文档](https://github.com/dzm5277229/notes/docs)
 - <a href="https://youtu.be/abc123" target="_blank">观看完整演示视频</a>
 
 ## 3. 视频演示
