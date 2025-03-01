@@ -22,3 +22,13 @@ https://github.com/dzm75277229/Testing-notes/blob/main/Video/%E8%A7%86%E9%A2%91.
   allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
   allowfullscreen>
 </iframe>
+<iframe 
+  width="100%" 
+  height="500" 
+  src="//player.bilibili.com/player.html?aid=视频AID&page=1&autoplay=true" 
+  scrolling="no" 
+  border="0" 
+  frameborder="no" 
+  framespacing="0" 
+  allowfullscreen="true">
+</iframe>
