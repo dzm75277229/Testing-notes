@@ -14,3 +14,11 @@
 https://github.com/dzm75277229/Testing-notes/blob/main/Video/%E8%A7%86%E9%A2%91.mp4
 ## 4. 项目运行视频
 ![安装运行视频](https://github.com/dzm75277229/Testing-notes/blob/main/Video/%E8%A7%86%E9%A2%91.mp4)
+<iframe 
+  width="560" 
+  height="315" 
+  src="https://www.youtube.com/embed/视频ID?autoplay=1&mute=1" 
+  frameborder="0" 
+  allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
+  allowfullscreen>
+</iframe>
