@@ -11,3 +11,6 @@
 <iframe width="560" height="315" src="https://www.bilibili.com/video/BV1bg411V7pp?vd_source=e72e2fe7e39c9513f5f87765d3cc7937&spm_id_from=333.788.videopod.episodes&p=89" frameborder="0" allowfullscreen></iframe>
 - <a href="https://www.bilibili.com/video/BV1bg411V7pp?vd_source=e72e2fe7e39c9513f5f87765d3cc7937&spm_id_from=333.788.videopod.episodes&p=89" target="_blank">观看完整演示视频</a>
 
+https://github.com/dzm75277229/Testing-notes/blob/main/Video/%E8%A7%86%E9%A2%91.mp4
+## 4. 项目运行视频
+![安装运行视频](https://github.com/dzm75277229/Testing-notes/blob/main/Video/%E8%A7%86%E9%A2%91.mp4)
