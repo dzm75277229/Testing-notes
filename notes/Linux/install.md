@@ -73,7 +73,7 @@ https://github.com/dzm75277229/Testing-notes/blob/main/Video/%E8%A7%86%E9%A2%91.
    ![安装Finalshell截图](../../Images/finallshell_install01.jpg)
 2. **同意许可协议**  
    点击 `我接受(I)`。
-  ! [安装Finalshell截图](../../Images/finallshell_install02.jpg)
+  ![安装Finalshell截图](../../Images/finallshell_install02.jpg)
 3. **进入安装向导**  
    点击 `下一步`。
    ![安装Finalshell截图](../../Images/finallshell_install03.jpg)
