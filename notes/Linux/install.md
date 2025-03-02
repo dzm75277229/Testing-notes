@@ -1,7 +1,7 @@
 # 项目演示
 
 ## 1. 项目截图
-[安装代码截图](../../Images/tree.jpg)
+![安装代码截图](../../Images/tree.jpg)
 
 ## 2. 相关链接
 - [项目文档](../Day1_TestFundamentals/Test_Theory.md)
