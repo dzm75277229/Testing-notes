@@ -70,13 +70,13 @@ https://github.com/dzm75277229/Testing-notes/blob/main/Video/%E8%A7%86%E9%A2%91.
 ### 2. 安装步骤（Windows 示例）
 1. **双击安装包**  
    运行下载的 `FinalShell.exe` 文件。
-   [安装Finalshell截图](../../Images/finallshell_install01.jpg)
+   ![安装Finalshell截图](../../Images/finallshell_install01.jpg)
 2. **同意许可协议**  
    点击 `我接受(I)`。
-   [安装Finalshell截图](../../Images/finallshell_install02.jpg)
+  ! [安装Finalshell截图](../../Images/finallshell_install02.jpg)
 3. **进入安装向导**  
    点击 `下一步`。
-   [安装Finalshell截图](../../Images/finallshell_install03.jpg)
+   ![安装Finalshell截图](../../Images/finallshell_install03.jpg)
 4. **选择安装目录**  
    默认路径或自定义路径，点击 `安装`。
 5. **完成安装**  
@@ -89,6 +89,6 @@ https://github.com/dzm75277229/Testing-notes/blob/main/Video/%E8%A7%86%E9%A2%91.
 
 ### 1. 查询 Linux IP 地址
 在 Linux 终端执行以下命令：ifconfig
-[安装Finalshell截图](../../Images/finallshell_install04.jpg)
+![安装Finalshell截图](../../Images/finallshell_install04.jpg)
 ### 2.FinalShell  连接 Linux 
-[运行Finalshell截图](../../Images/finallshell_install05.jpg)
+![运行Finalshell截图](../../Images/finallshell_install05.jpg)
