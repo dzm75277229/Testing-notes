@@ -1,0 +1,34 @@
+#定义空的元组
+t1=()
+t2=tuple()
+print(type(t1),type(t2))
+#定义单个元组,必须加逗号
+t3=('dan')
+print(type(t3))
+t4=('dan',)
+print(type(t4))
+#列表内的元素可以修改，元组tuple内的元素不可以被修改,使用小括号定义，逗号隔开
+mytuple=(1,2,3,'duzhimei')
+print(mytuple)
+print(type(mytuple))
+print(mytuple[0])
+#方法index()
+num=mytuple.index(1)
+print(num)
+#方法len(元组)
+length=len(mytuple)
+print(length)
+t5=(1,2,3,'duzhimei',1,1,1,6,2)
+#count()
+num1=t5.count(1)
+print(num1)
+#元组的遍历while
+index=0
+while index<length:
+    elem=mytuple[index]
+    print(elem)
+    index+=1
+#不修改元组内容，但是若元组内嵌套一个List数组
+t6=(1,2,3,'duzhimei',1,1,1,6,2,[7,9])
+t6[9][1]='xiaomei'
+print(f"t6的内容为{t6}")

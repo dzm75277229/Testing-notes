@@ -1,0 +1,11 @@
+#字符串字面量之间的拼接
+print("duzhimei",'一定可以')
+print("duzhimei"+'一定可以')
+#字符串变量之间拼接
+nameq="qq"
+namew="cc"
+print(nameq+namew)
+#字符串和int进行拼接是错误的，拼接只能用于字符串直接拼接
+namea='黑马'
+age=1
+print("我是"+namea+age)

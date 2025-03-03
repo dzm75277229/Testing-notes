@@ -1,0 +1,42 @@
+#空字典
+my_dict={}
+my_dict=dict()
+#非空字典,key相同的，后面的会覆盖前面的
+my_dict={"xiaowang":90,"xiaowang":80,"xiaobai":70}
+print(my_dict)
+score=my_dict["xiaobai"]
+print(f"xiaowang的成绩{score}")
+#嵌套
+stu_score={
+    "杜枝梅":{
+            "语文":77,
+            "数学":66,
+            "英语":33
+        },"王力宏":{
+        "语文":88,
+        "数学":86,
+        "英语":66}
+}
+print(stu_score["王力宏"]["语文"])
+#字典更新
+stu_score["徐璐"]= {
+        "语文":88,
+        "数学":86,
+        "英语":66}
+print(stu_score)
+#字典删除pop有返回值
+value=stu_score.pop("徐璐")
+print(value)
+#清空
+my_dict.clear()
+print(my_dict)
+#获取全部key,为列表
+keys=stu_score.keys()
+print(f"stu_score的key为{keys}")
+#遍历字典,不用while遍历
+for key in keys:
+    print(f"字典的key值为{key}")
+    print(f"字典的value值为{stu_score[key]}")
+#统计字典长度
+length=len(stu_score)
+print(length)

@@ -1,0 +1,13 @@
+#字符串定义，三个单引号，三个单引号或者一个单引号
+name='duzhimei'
+print(type(name))
+#字符串内包含双引号,用单引号引起来
+namea='"duzhimei"'
+print(namea)
+#字符串内包含单引号，用双引号引起来
+nameb="'duzhimei'"
+print(nameb)
+#字符串内包含双引号,用转义字符
+namec="\"duzhimei\""
+print(namec)
+#zif
